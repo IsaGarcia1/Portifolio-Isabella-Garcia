@@ -1,11 +1,14 @@
 
 <div align="center">
 
-# ✨ Olá, eu sou a Isabella Garcia!
+# 👩🏻‍💻 Isabella Silva Fernandes Garcia
 
-### Estudante de Desenvolvimento de Sistemas | Futura Farmacêutica 💊
+### Estudante de Desenvolvimento de Sistemas
 
-*"Aprendendo, evoluindo e construindo meu futuro através da tecnologia e do conhecimento."*
+**Tecnologia • Inovação • Saúde**
+
+[![GitHub](https://img.shields.io/badge/GitHub-IsaGarcia1-315C42?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaGarcia1)
+[![Email](https://img.shields.io/badge/Email-Contato-315C42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellafgarcia2@gmail.com)
 
 </div>
 
@@ -13,50 +16,78 @@
 
 ## 🌷 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas**, com formação técnica pelo SENAI e Ensino Médio pelo SESI.
+Sou uma estudante dedicada, responsável e com facilidade de aprendizado, atualmente concluindo o Ensino Médio e o curso técnico integrado em Desenvolvimento de Sistemas.
 
-Tenho interesse em tecnologia, inovação e saúde, especialmente na área de **Farmácia**, profissão que pretendo seguir futuramente.
+Tenho boa comunicação, organização e interesse em desenvolver minhas habilidades profissionais. Busco constantemente novos conhecimentos e oportunidades de crescimento, com o objetivo de construir uma carreira sólida.
 
-Sou uma pessoa organizada, comunicativa, proativa e que gosta de aprender coisas novas. Busco desenvolver minhas habilidades, adquirir experiências e transformar meus conhecimentos em oportunidades.
+Tenho interesse especial pela área de Farmácia e pela possibilidade de unir tecnologia, inovação e saúde.
 
-## 🎓 Formação
+## 🎓 Formação acadêmica
 
-- Ensino Médio — SESI;
-- Técnico em Desenvolvimento de Sistemas — SENAI.
+- **Ensino Médio** — SESI CE 370 (2024–2026).
+- **Técnico em Desenvolvimento de Sistemas** — SENAI.
+
+## 💼 Experiência profissional
+
+**Hidrotam — Oportunidade pelo SENAI**
+
+- Atuação no setor administrativo;
+- Atividades como auxiliar de desenvolvimento de sistemas;
+- Aplicação de conhecimentos técnicos e ferramentas digitais;
+- Desenvolvimento de habilidades profissionais e trabalho em equipe.
 
 ## 💻 Conhecimentos técnicos
 
-- HTML, CSS e JavaScript;
-- PHP e CodeIgniter 4;
-- Python;
-- Flutter;
-- Canva;
-- Word, Google Docs e Excel básico.
+| Tecnologia | Conhecimentos |
+|:--|:--|
+| HTML, CSS e JavaScript | Desenvolvimento de páginas web |
+| PHP e CodeIgniter 4 | Desenvolvimento de sistemas e aplicações web |
+| Python | Lógica de programação e automação básica |
+| Flutter | Aplicativos multiplataforma |
+| Canva | Layouts, apresentações e materiais visuais |
+| Word e Google Docs | Elaboração de documentos |
+| Excel | Planilhas e organização de informações |
 
-## 💡 Habilidades
+## 📚 Cursos complementares
 
-- Comunicação;
-- Organização;
-- Trabalho em equipe;
+- Comunicação Alternativa e Aumentativa (CAA);
+- Inglês Intermediário (B2);
+- Excel Básico;
+- Elementos da Comunicação Assertiva;
+- Competência Transversal – Finanças Pessoais;
+- Por Dentro da Segurança Cibernética;
+- Fundamentos da Gestão de Projetos Aplicados na Indústria;
+- Comportamento Empreendedor;
+- Design Thinking.
+
+## ✨ Habilidades pessoais
+
+- Comunicação eficaz;
+- Organização e responsabilidade;
 - Proatividade;
-- Responsabilidade;
+- Trabalho em equipe;
 - Facilidade de aprendizado;
-- Gestão do tempo.
+- Adaptabilidade;
+- Gestão do tempo;
+- Comprometimento;
+- Atenção aos detalhes.
 
-## 🎯 Objetivos
+## 🎯 Objetivos profissionais
 
-Meu objetivo é construir uma carreira na área da Farmácia, sem deixar de lado meus conhecimentos em tecnologia. Quero explorar como essas duas áreas podem se complementar e contribuir para a inovação na saúde.
+Busco ampliar meus conhecimentos e experiências, desenvolvendo habilidades que contribuam para meu crescimento pessoal e profissional. Tenho como objetivo seguir carreira na área de Farmácia, mantendo também meus conhecimentos em tecnologia e explorando as possibilidades de integração entre essas áreas.
 
-## 📬 Vamos nos conectar?
+## 📬 Entre em contato
 
-- 📧 **E-mail:** isabellafgarcia2@gmail.com
-- 💻 **GitHub:** [@IsaGarcia1](https://github.com/IsaGarcia1)
+- 📧 **E-mail:** [isabellafgarcia2@gmail.com](mailto:isabellafgarcia2@gmail.com)
+- 💻 **GitHub:** [IsaGarcia1](https://github.com/IsaGarcia1)
 - 💬 **WhatsApp:** [(19) 97426-3169](https://wa.me/5519974263169)
 
 ---
 
 <div align="center">
 
-**Obrigada pela visita!** 💚
+**Obrigada por visitar meu perfil!** 💚
+
+*Aprendendo, evoluindo e construindo meu futuro.*
 
 </div>
