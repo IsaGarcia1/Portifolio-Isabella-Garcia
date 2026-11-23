@@ -1,69 +1,62 @@
 
 <div align="center">
 
-# ✨ Isabella Garcia
+# ✨ Olá, eu sou a Isabella Garcia!
 
-### Portfólio Pessoal
+### Estudante de Desenvolvimento de Sistemas | Futura Farmacêutica 💊
 
-**Desenvolvimento de Sistemas • Farmácia • Tecnologia e Saúde**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-IsaGarcia1-1f4d36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaGarcia1)
-[![E-mail](https://img.shields.io/badge/E--mail-Entre%20em%20contato-4b8b5b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellafgarcia2@gmail.com)
+*"Aprendendo, evoluindo e construindo meu futuro através da tecnologia e do conhecimento."*
 
 </div>
 
 ---
 
-## 🌿 Sobre o projeto
+## 🌷 Sobre mim
 
-Este repositório reúne meu portfólio pessoal, desenvolvido para apresentar minha trajetória acadêmica, minhas habilidades, experiências e objetivos profissionais.
+Sou estudante de **Desenvolvimento de Sistemas**, com formação técnica pelo SENAI e Ensino Médio pelo SESI.
 
-Sou estudante de **Desenvolvimento de Sistemas** e tenho interesse em seguir carreira na área de **Farmácia**. Quero explorar as possibilidades de unir tecnologia e saúde, utilizando a inovação para criar soluções que façam a diferença.
+Tenho interesse em tecnologia, inovação e saúde, especialmente na área de **Farmácia**, profissão que pretendo seguir futuramente.
 
-## 💻 Tecnologias utilizadas
+Sou uma pessoa organizada, comunicativa, proativa e que gosta de aprender coisas novas. Busco desenvolver minhas habilidades, adquirir experiências e transformar meus conhecimentos em oportunidades.
 
-- **HTML5** — estrutura das páginas;
-- **CSS3** — identidade visual, responsividade e animações;
-- **JavaScript** — interações e funcionalidades.
+## 🎓 Formação
 
-## 📌 O que você encontra no portfólio?
+- Ensino Médio — SESI;
+- Técnico em Desenvolvimento de Sistemas — SENAI.
 
-- Apresentação pessoal;
-- Minha trajetória acadêmica e profissional;
-- Habilidades técnicas e pessoais;
-- Interesses na área de Farmácia;
-- Relação entre tecnologia e saúde;
-- Objetivos profissionais;
-- Formas de contato e currículo para download.
+## 💻 Conhecimentos técnicos
 
-## 📬 Contato
+- HTML, CSS e JavaScript;
+- PHP e CodeIgniter 4;
+- Python;
+- Flutter;
+- Canva;
+- Word, Google Docs e Excel básico.
 
-Entre em contato comigo:
+## 💡 Habilidades
 
-| Canal | Link |
-|:--|:--|
-| 📧 E-mail | [isabellafgarcia2@gmail.com](mailto:isabellafgarcia2@gmail.com) |
-| 💻 GitHub | [@IsaGarcia1](https://github.com/IsaGarcia1) |
-| 💬 WhatsApp | [(19) 97426-3169](https://wa.me/5519974263169) |
+- Comunicação;
+- Organização;
+- Trabalho em equipe;
+- Proatividade;
+- Responsabilidade;
+- Facilidade de aprendizado;
+- Gestão do tempo.
 
-## 🚀 Acesse o portfólio
+## 🎯 Objetivos
 
-O site pode ser publicado gratuitamente pelo **GitHub Pages**:
+Meu objetivo é construir uma carreira na área da Farmácia, sem deixar de lado meus conhecimentos em tecnologia. Quero explorar como essas duas áreas podem se complementar e contribuir para a inovação na saúde.
 
-1. Abra as configurações do repositório no GitHub.
-2. Acesse **Pages**.
-3. Em *Build and deployment*, selecione **Deploy from a branch**.
-4. Escolha a branch `main` e a pasta `/root`.
-5. Salve e aguarde a publicação.
+## 📬 Vamos nos conectar?
+
+- 📧 **E-mail:** isabellafgarcia2@gmail.com
+- 💻 **GitHub:** [@IsaGarcia1](https://github.com/IsaGarcia1)
+- 💬 **WhatsApp:** [(19) 97426-3169](https://wa.me/5519974263169)
 
 ---
 
 <div align="center">
 
-Feito com 💚 por **Isabella Garcia**
-
-*Aprendendo, criando e construindo meu futuro.*
+**Obrigada pela visita!** 💚
 
 </div>
